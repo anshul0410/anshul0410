@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Anshul 👋
 
-<!--
-**anshul0410/anshul0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer at **Best Buy India**, Bengaluru. Frontend-heavy full-stack engineer (React, Next.js, React Native, Node.js) building AI-powered, agentic experiences at scale.
 
-Here are some ideas to get you started:
+🌐 **Portfolio:** [anshulakotkar.is-a.dev](https://anshulakotkar.is-a.dev)
+💼 **LinkedIn:** [linkedin.com/in/anshul-akotkar](https://www.linkedin.com/in/anshul-akotkar/)
+📄 **Résumé:** [Download](https://anshulakotkar.is-a.dev/Anshul-Akotkar-Resume.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+- 🤖 Multi-agent, multimodal AI on Gemini (Vertex AI) and MCP servers used across teams
+- ⚡ Post-purchase support platform serving 8M+ customers a year, ~1B requests at holiday peak
+- 🛠️ React / Next.js / React Native front ends, Node.js services, CI/CD on AWS EKS and GCP
+
+### Featured
+- [**anshul-portfolio**](https://github.com/anshul0410/anshul-portfolio): this portfolio. Designed in Figma, built as a Next.js + Express monorepo, deployed on Vercel and Render.
